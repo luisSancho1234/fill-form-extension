@@ -2,7 +2,12 @@
 
 > Uma extensão inteligente para o Google Chrome que acelera e simplifica o preenchimento de formulários, especialmente os de vagas de emprego. Rápido fácil e automatizado.
 
----
+
+
+<img width="623" height="910" alt="image" src="https://github.com/user-attachments/assets/e6268802-a8aa-4fcf-bd34-19eaccdf0ad1" />
+
+
+
 
 ## 🚀 Como Instalar
 
