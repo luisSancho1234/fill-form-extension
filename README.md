@@ -1,6 +1,6 @@
-# 📝 Preenchedor de Vagas
+# 📝 Preenchedor de Formulários
 
-> Uma extensão inteligente para o Google Chrome que acelera e simplifica o preenchimento de formulários de vagas de emprego. Você no controle dos seus dados, preenchendo apenas o que quiser, com um único clique.
+> Uma extensão inteligente para o Google Chrome que acelera e simplifica o preenchimento de formulários, especialmente os de vagas de emprego. Rápido fácil e automatizado.
 
 ---
 
